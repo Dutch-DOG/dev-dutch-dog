@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on DDOG</title>
-    <link>//ba4bes.github.io/dev-ddog/link/</link>
+    <link>//ddog.nl/dev-dutch-dog/link/</link>
     <description>Recent content in Links on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 13 Jun 2020 16:48:47 +0200</lastBuildDate>
     
-	<atom:link href="//ba4bes.github.io/dev-ddog/link/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ddog.nl/dev-dutch-dog/link/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>We&#39;re on EventBrite!</title>
-      <link>//ba4bes.github.io/dev-ddog/link/eventbrite/</link>
+      <link>//ddog.nl/dev-dutch-dog/link/eventbrite/</link>
       <pubDate>Sat, 13 Jun 2020 16:48:47 +0200</pubDate>
       
-      <guid>//ba4bes.github.io/dev-ddog/link/eventbrite/</guid>
+      <guid>//ddog.nl/dev-dutch-dog/link/eventbrite/</guid>
       <description></description>
     </item>
     
